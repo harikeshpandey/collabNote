@@ -1,5 +1,5 @@
 {
-  "name": "Excalidraw",
+  "name": "Collabrative-Notes-Sharing",
   "private": true,
   "scripts": {
     "build": "turbo build",
